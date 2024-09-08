@@ -14,9 +14,10 @@
         {"$GMRInstance":"v1","%Name":"inst_57B4DF50","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_57B4DF50","objectId":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":928.0,"y":1440.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"CollisionTiles","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"CollisionTiles","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":16,"SerialiseWidth":40,"TileCompressedData":[
-          -472,-2147483648,1,11,-7,-2147483648,-7,2,1,3,-21,-2147483648,4,11,-2147483648,-2147483648,23,-7,-2147483648,
-          -2,14,1,50,-3,14,3,50,14,3,-15,-2147483648,1,1,-4,103,4,14,2,2,14,-6,2,11,0,14,14,50,14,14,50,14,50,
-          14,3,-13,-2147483648,1,1,-9,14,-5,50,6,14,0,14,50,14,50,-4,14,-2,50,-13,38,-11,14,-5,50,1,0,
+          -469,-2147483648,4,0,-2147483648,-2147483648,0,-7,-2147483648,-7,2,1,3,-21,-2147483648,4,11,-2147483648,
+          -2147483648,11,-7,-2147483648,-2,14,1,50,-3,14,3,50,100,3,-15,-2147483648,1,1,-4,29,4,22,2,2,22,-6,2,
+          11,0,14,14,50,14,14,50,14,50,100,3,-13,-2147483648,2,1,66,-8,14,-5,50,6,14,0,14,50,14,50,-4,14,2,50,
+          100,-13,38,1,66,-10,14,-5,50,1,0,
         ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet_Ground","path":"tilesets/TileSet_Ground/TileSet_Ground.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRAssetLayer":"","%Name":"Foreground","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_65D64F8E","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_65D64F8E","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"Tree_01","path":"sprites/Tree_01/Tree_01.yy",},"x":512.0,"y":1536.0,},
