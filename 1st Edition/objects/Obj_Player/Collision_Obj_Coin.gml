@@ -1,11 +1,19 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 21BFFAF9
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "coins"
+coins += 1;
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 4EAE56EA
-/// @DnDArgument : "xpos" "other.x-90"
+/// @DnDArgument : "xpos" "other.x-80"
 /// @DnDArgument : "ypos" "other.y"
 /// @DnDArgument : "objectid" "obj_coin_collected_effect"
 /// @DnDSaveInfo : "objectid" "obj_coin_collected_effect"
-instance_create_layer(other.x-90, other.y, "Instances", obj_coin_collected_effect);
+instance_create_layer(other.x-80, other.y, "Instances", obj_coin_collected_effect);
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
